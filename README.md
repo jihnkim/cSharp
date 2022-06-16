@@ -11,7 +11,7 @@
 ---
 3.
 - Open Terminal
-
+winforms, console and more
 ```bash
 cd c:\workspace
 
@@ -20,6 +20,7 @@ mdk helloCsharp
 dotnet 
 
 dotnet new console
+dotnet new winforms
 
 dotnet run
 ``` 
