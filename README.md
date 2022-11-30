@@ -24,3 +24,4 @@ dotnet new winforms
 
 dotnet run
 ``` 
+"# oracle_sql" 
